@@ -36,6 +36,9 @@ I am very excited to share a project that I have completed on Excel. The name of
  From the picture above, it is evident that phone makes most of the profit while table is the worst performing category.
 
 
+![As Discount increases Profit Decreases](https://github.com/Raj4478/Data-Analysis-Project/assets/132039556/5736d4d8-05ae-4e06-a8bf-97e655db6433)
+
+
 
 
 
