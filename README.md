@@ -30,7 +30,10 @@ I am very excited to share a project that I have completed on Excel. The name of
 
 - Yearly profits are gained in the technology and office category in Data-Analysis-Project
 
- ![Large Sales does not mean large profit](https://github.com/Raj4478/Data-Analysis-Project/assets/132039556/beb61cfa-05db-43a5-9b7b-26b951ec2f83)
+ ![Profit By Category](https://github.com/Raj4478/Data-Analysis-Project/assets/132039556/beb61cfa-05db-43a5-9b7b-26b951ec2f83)
+
+
+ From the picture above, it is evident that phone makes most of the profit while table is the worst performing category.
 
 
 
