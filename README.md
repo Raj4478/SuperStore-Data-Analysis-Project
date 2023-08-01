@@ -24,7 +24,7 @@ I am very excited to share a project that I have completed on Excel. The name of
 
 - The states which have maximum number  of sales in California.
 
-- Yearly profits are gained in the technology and office category# Data-Analysis-Project
+- Yearly profits are gained in the technology and office category in Data-Analysis-Project
 
 
 
