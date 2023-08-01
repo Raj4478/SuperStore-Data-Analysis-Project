@@ -3,6 +3,10 @@
 Hi everyone,
 I am very excited to share a project that I have completed on Excel. The name of the project is " Sales Dashboard". The main objective of the project is to create a sales dashboard using Excel to analyze factors affecting the sales and profit,correlation between discount and profit and top customers who are making profit.
 
+# Dataset
+
+- The Dataset is : [_198060205f23f90d686a40d6a99a8fc7_Full-Sales-Superstore-Dataset.xlsx](https://github.com/Raj4478/Data-Analysis-Project/files/12224915/_198060205f23f90d686a40d6a99a8fc7_Full-Sales-Superstore-Dataset.xlsx)
+
 # Project Steps overview
 
 - Understanding the dataset.
