@@ -41,6 +41,11 @@ I am very excited to share a project that I have completed on Excel. The name of
 ## The above data is arranged on the basis of people with most sales to least ones.However, it is seen that Sean miller who has the most sales has a loss of $1981, the reason being excessive amount of discount upto 37 percent and the top performer is Tamara chand with profit of $ 8983 and discount of 14 percent.
 
 
+![Correlation of Profit and Discount](https://github.com/Raj4478/Data-Analysis-Project/assets/132039556/2bd74d6a-df0a-4b34-928e-00e17672253c)
+
+## The above image show correction between profit and discount and it is evident that as discount increases profit decreases.
+
+
 
 
 
