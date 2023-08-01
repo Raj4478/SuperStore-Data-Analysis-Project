@@ -5,7 +5,7 @@ I am very excited to share a project that I have completed on Excel. The name of
 
 # Dataset
 
-- The Dataset is : [_198060205f23f90d686a40d6a99a8fc7_Full-Sales-Superstore-Dataset.xlsx](https://github.com/Raj4478/Data-Analysis-Project/files/12224915/_198060205f23f90d686a40d6a99a8fc7_Full-Sales-Superstore-Dataset.xlsx)
+- The Dataset is : [SuperStore-DataSet](https://github.com/Raj4478/Data-Analysis-Project/files/12224915/_198060205f23f90d686a40d6a99a8fc7_Full-Sales-Superstore-Dataset.xlsx)
 
 # Project Steps overview
 
